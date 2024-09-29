@@ -187,3 +187,8 @@ section {
 #review-score {
     margin-top: 5px;
 }
+
+.body-div {
+    height: 100vh;
+    background-color: rgba(86, 86, 86, 0.537);
+}
