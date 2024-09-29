@@ -254,3 +254,13 @@ main h1, main p, main h2 {
     height: 16em;
     width: 11em;
 }
+
+/* review page */
+
+#review-main #profile-div {
+    margin-top: 3em;
+}
+
+#review-main img {
+    height: 3em;
+}
