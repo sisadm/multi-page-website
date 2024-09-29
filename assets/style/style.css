@@ -45,7 +45,8 @@ body {
 
 /* header */
 
-header, .header-div, #nav-div ul {
+/* display flex */
+header, .header-div, #nav-div ul, #review-div, #review-div ul {
     display: flex;
 }
 
@@ -157,4 +158,32 @@ section {
 
 #section-contact-div {
     height: 3em;
+}
+
+#google-icon {
+    height: 2.5em;
+}
+
+#review-list img {
+    height: 1.5em;
+}
+
+#review-list {
+    height: 2em;
+    width: 8em;
+}
+
+#review-details {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+#review-details p {
+    margin: 0 5px;
+}
+
+#review-score {
+    margin-top: 5px;
 }
