@@ -264,3 +264,7 @@ main h1, main p, main h2 {
 #review-main img {
     height: 3em;
 }
+
+#review-main #profile-div p {
+    font-style: italic;
+} 
