@@ -1,0 +1,33 @@
+/* font for the company name */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* font for the page  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+/* universal selector */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Rubik", sans-serif;
+}
+
+
+/* body  */
+
+body {
+    background-image: url('../img/main-img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+/* header */
+
+
+
+#logo-div h3 {
+    font-family: "Bebas Neue", sans-serif !important;
+}
