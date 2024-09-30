@@ -150,7 +150,7 @@ header {
     color: var(--color-black);
 }
 
-/* main section */
+/* main section for index.html */
 
 section {
     margin: 2em;
@@ -198,6 +198,14 @@ section {
 
 #review-score {
     margin-top: 5px;
+}
+
+/* footer */
+
+footer p{
+    position: absolute;
+    right: 50%;
+    bottom: 2%;
 }
 
 /* different pages shadier background */
